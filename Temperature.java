@@ -5,6 +5,6 @@ public class Temperature
      */
     public double convertTemperature(double celsius)
     {
-        return celsius = 9.0/5 + 32;
+        return celsius*9.0/5+32;
     }
 }
